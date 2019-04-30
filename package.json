@@ -1,0 +1,34 @@
+{
+  "name": "@hadesz/h-list",
+  "version": "1.0.0",
+  "description": "A common list for mobile app",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bruce-zxy/h-list.git"
+  },
+  "keywords": [
+    "list"
+  ],
+  "author": "hadesz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bruce-zxy/h-list/issues"
+  },
+  "homepage": "https://github.com/Bruce-zxy/h-list#readme",
+  "dependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "lodash": "^4.17.11",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
